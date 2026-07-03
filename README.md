@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Abhinay
+# Hi 👋, I'm Abhinay Thorat
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=First-Principles+Thinker;C%2B%2B+%7C+Java+%7C+JavaScript+%7C+Python;Frontend+%7C+Backend+%7C+AI%2FML+%7C+Linux;Spring+Boot+%7C+React+%7C+AWS+%7C+Problem+Solving;I+like+understanding+software+under+the+hood" alt="Typing SVG" />
 
@@ -43,7 +43,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,java,js,ts,python,react,spring,nodejs,html,css,linux,bash,git,github,gitlab,mysql,postgres,aws,docker" />
+<img src="https://skillicons.dev/icons?i=java,cpp,c,go,rust,js,ts,python,react,spring,nodejs,html,css,linux,bash,git,github,gitlab,mysql,postgres,aws,docker" />
 
 </div>
 
