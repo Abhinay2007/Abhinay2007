@@ -4,6 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=First-Principles+Thinker;C%2B%2B+%7C+Java+%7C+JavaScript+%7C+Python;Frontend+%7C+Backend+%7C+AI%2FML+%7C+Linux;Spring+Boot+%7C+React+%7C+AWS+%7C+Problem+Solving;I+like+understanding+software+under+the+hood" alt="Typing SVG" />
 
+
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=Abhinay2007&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
@@ -12,6 +13,31 @@
 <img src="https://img.shields.io/badge/Currently%20Exploring-AI%20%7C%20ML%20%7C%20Deep%20Learning-7C3AED?style=for-the-badge" alt="AI/ML" />
 
 </div>
+
+## 🌐 Connect / Platforms
+
+<p align="center">
+  <a href="https://github.com/Abhinay2007">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="YOUR_GITLAB_LINK">
+    <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+  </a>
+  <a href="YOUR_SALSA_LINK">
+    <img src="https://img.shields.io/badge/Debian%20Salsa-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
+  </a>
+  <a href="YOUR_KDE_LINK">
+    <img src="https://img.shields.io/badge/KDE-1D99F3?style=for-the-badge&logo=kde&logoColor=white" />
+  </a>
+  <a href="YOUR_X_LINK">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="YOUR_LINKEDIN_LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
 
 ## 🛠️ Languages & Tools
 
@@ -72,30 +98,7 @@
 
 ---
 
-## 🌐 Connect / Platforms
 
-<p align="center">
-  <a href="https://github.com/Abhinay2007">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="YOUR_GITLAB_LINK">
-    <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
-  </a>
-  <a href="YOUR_SALSA_LINK">
-    <img src="https://img.shields.io/badge/Debian%20Salsa-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
-  </a>
-  <a href="YOUR_KDE_LINK">
-    <img src="https://img.shields.io/badge/KDE-1D99F3?style=for-the-badge&logo=kde&logoColor=white" />
-  </a>
-  <a href="YOUR_X_LINK">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a href="YOUR_LINKEDIN_LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
----
 
 
 ## 🔍 What I’m Exploring
