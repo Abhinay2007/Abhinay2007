@@ -29,10 +29,10 @@
   <a href="YOUR_KDE_LINK">
     <img src="https://img.shields.io/badge/KDE-1D99F3?style=for-the-badge&logo=kde&logoColor=white" />
   </a>
-  <a href="YOUR_X_LINK">
+  <a href="https://x.com/ThoratAbhi35944">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  <a href="YOUR_LINKEDIN_LINK">
+  <a href="https://www.linkedin.com/in/abhinay-thorat-a406642ba/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -135,6 +135,18 @@
     alt="Top languages"
   />
 </div>
+
+---
+## 🌍 Open Source & Engineering Journey
+
+While GitHub is where I curate projects, experiments, and learning repositories, a meaningful part of my open-source exploration also happens on GitLab-based ecosystems.
+
+I’m especially interested in:
+- Debian ecosystem / Salsa GitLab
+- KDE / Linux desktop ecosystem
+- systems-oriented software and first-principles engineering
+
+So this profile is less about contribution counts and more about the quality of the work, projects, and ideas I’m building and exploring.
 
 
 ---
