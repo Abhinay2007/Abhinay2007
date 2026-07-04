@@ -8,7 +8,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=First-Principles+Thinker;C%2B%2B+%7C+Java+%7C+JavaScript+%7C+Python;Frontend+%7C+Backend+%7C+AI%2FML+%7C+Linux;Spring+Boot+%7C+React+%7C+AWS+%7C+Problem+Solving;I+like+understanding+software+under+the+hood" alt="Typing SVG" />
 
-
+</div>
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=Abhinay2007&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
