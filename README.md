@@ -2,7 +2,13 @@
 
 # Hi 👋, I'm Abhinay Thorat
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=First-Principles+Thinker;C%2B%2B+%7C+Java+%7C+JavaScript+%7C+Python;Frontend+%7C+Backend+%7C+AI%2FML+%7C+Linux;Spring+Boot+%7C+React+%7C+AWS+%7C+Problem+Solving;I+like+understanding+software+under+the+hood" alt="Typing SVG" />
+<div align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:0d2818,100:0d1117&height=220&section=header&text=ABHINAY%20THORAT&fontSize=54&fontColor=3fb950&animation=fadeIn&fontAlignY=38&desc=Java%20%7C%20Spring%20Boot%20%7C%20React%20%7C%20First-Principles%20Thinker&descSize=16&descColor=8b949e&descAlignY=62" />
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=First-Principles+Thinker;C%2B%2B+%7C+Java+%7C+JavaScript+%7C+Python;Frontend+%7C+Backend+%7C+AI%2FML+%7C+Linux;Spring+Boot+%7C+React+%7C+AWS+%7C+Problem+Solving;I+like+understanding+software+under+the+hood" alt="Typing SVG" />
+
+</div>
 
 
 <br><br>
