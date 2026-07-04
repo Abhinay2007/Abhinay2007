@@ -26,7 +26,7 @@
   <a href="YOUR_SALSA_LINK">
     <img src="https://img.shields.io/badge/Debian%20Salsa-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
   </a>
-  <a href="YOUR_KDE_LINK">
+  <a href="https://invent.kde.org/abhinaythorat">
     <img src="https://img.shields.io/badge/KDE-1D99F3?style=for-the-badge&logo=kde&logoColor=white" />
   </a>
   <a href="https://x.com/ThoratAbhi35944">
