@@ -20,10 +20,10 @@
   <a href="https://github.com/Abhinay2007">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="YOUR_GITLAB_LINK">
+  <!-- <a href="YOUR_GITLAB_LINK">
     <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
-  </a>
-  <a href="YOUR_SALSA_LINK">
+  </a> -->
+  <a href="https://salsa.debian.org/Abhinay2007">
     <img src="https://img.shields.io/badge/Debian%20Salsa-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
   </a>
   <a href="https://invent.kde.org/abhinaythorat">
