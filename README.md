@@ -166,7 +166,7 @@ So this profile is less about contribution counts and more about the quality of 
 
 ## 📌 Featured Repositories
 
-* **dsa-cpp-java** → curated DSA solutions, patterns, and explanations in C++ / Java
+* **dsa-cpp** → curated DSA solutions, patterns, and explanations in C++ / Java
 * **cpp-under-the-hood** → experiments with memory, pointers, object layout, STL behavior
 * **java-internals-lab** → collections internals, concurrency, synchronization, JVM concepts
 * **cs-core-notes** → OS, DBMS, CN, OOP, and system design fundamentals
