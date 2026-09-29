@@ -157,7 +157,7 @@ So this profile is less about contribution counts and more about the quality of 
 
 ## 🏗️ Current Build Track
 
-* A structured **DSA repository** in **C++ and Java**
+* A structured **DSA repository** in **C++**
 * A **C++ under-the-hood** repository with experiments and implementation notes
 * A **Java internals lab** for collections, concurrency, and JVM concepts
 * Deep notes + implementations for **OS / DBMS / Computer Networks**
